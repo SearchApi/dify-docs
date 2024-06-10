@@ -11,3 +11,4 @@ Dify supports various tools to enhance your application's capabilities. Each too
 
 - [StableDiffusion](./stable-diffusion.md): A tool for generating images based on text prompts.
 - [SearXNG](./searxng.md): A free internet metasearch engine which aggregates results from various search services and databases.
+- [SearchApi](./searchapi.md): A tool which extracts organic results from Google, Google News, Google Jobs, or YouTube video Transcripts.
